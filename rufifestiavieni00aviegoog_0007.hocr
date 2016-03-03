@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rufifestiavieni00aviegoog_0007.png"; bbox 0 0 2578 3956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 229 1646 1171 1762">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 229 1646 1171 1762">
+     <span class='ocr_line' id='line_1_1' title="bbox 229 1646 1171 1762; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 229 1646 581 1746; x_wconf 81' lang='lat' dir='ltr'><strong>IOAOHIMO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 614 1647 1072 1762; x_wconf 72' lang='lat' dir='ltr'><strong>MARQVARDT</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1168 1701 1171 1718; x_wconf 79' lang='lat'><em>=</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 493 1959 797 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 493 1959 797 2022">
+     <span class='ocr_line' id='line_1_2' title="bbox 493 1959 797 2022; baseline 0.01 -8"><span class='ocrx_word' id='word_1_4' title='bbox 493 1959 671 2022; x_wconf 80' lang='lat' dir='ltr'>PIETATIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 690 1959 797 2020; x_wconf 79' lang='lat' dir='ltr'>ERGO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1294 3956">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1294 3956">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1294 3956; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1294 3956; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
